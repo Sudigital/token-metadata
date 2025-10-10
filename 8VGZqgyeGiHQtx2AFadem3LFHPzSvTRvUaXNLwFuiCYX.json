@@ -2,7 +2,7 @@
   "name": "Super Digital",
   "symbol": "SUDIGITAL",
   "description": "Super Digital ecosystem token for gaming, social, and blockchain interactions. Used for mission rewards, governance, and platform utilities.",
-  "image": "https://sudigital.com/sudigital-logo.svg",
+  "image": "https://github.com/Sudigital/token-metadata/blob/main/sudigital-logo.png",
   "external_url": "https://sudigital.com",
   "attributes": [
     {
@@ -29,7 +29,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://sudigital.com/sudigital-logo.svg",
+        "uri": "https://github.com/Sudigital/token-metadata/blob/main/sudigital-logo.png",
         "type": "image/svg+xml"
       }
     ],
