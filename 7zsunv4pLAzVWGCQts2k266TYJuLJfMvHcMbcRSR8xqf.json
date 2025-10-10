@@ -1,0 +1,38 @@
+{
+  "name": "Super Digital",
+  "symbol": "SUDIGITAL",
+  "description": "Super Digital ecosystem token for gaming, social, and blockchain interactions. Used for mission rewards, governance, and platform utilities.",
+  "image": "https://sudigital.com/sudigital-logo.png",
+  "external_url": "https://sudigital.com",
+  "attributes": [
+    {
+      "trait_type": "Token Type",
+      "value": "Utility Token"
+    },
+    {
+      "trait_type": "Ecosystem",
+      "value": "Super Digital"
+    },
+    {
+      "trait_type": "Network",
+      "value": "devnet"
+    },
+    {
+      "trait_type": "Total Supply",
+      "value": "1,000,000,000"
+    },
+    {
+      "trait_type": "Decimals",
+      "value": "6"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://sudigital.com/sudigital-logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "ft"
+  }
+}
